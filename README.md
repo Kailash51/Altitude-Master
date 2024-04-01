@@ -1,3 +1,7 @@
+# Demo
+Be a part of the project by ⭐️(star) & ⑂(forking) this project
+#### (https://kailash51.github.io/Altitude-Master/)
+
 # Altitude-Master/Height Measuring Tool
 "Revolutionizing height measurement, our project offers precision and efficiency. With advanced technology and user-friendly design, it seamlessly integrates into various applications. Experience accurate height measurement like never before."
 
