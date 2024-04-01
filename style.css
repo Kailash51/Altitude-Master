@@ -1,0 +1,52 @@
+body{
+  margin:0;
+  text-align:center;
+  overflow:hidden;
+  font-size:25px;
+  font-family:Arial;
+  color:white;
+  text-shadow:0 0 4px #000, 0 0 4px #000;
+  background: #3a6186;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #89253e, #3a6186);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #89253e, #3a6186); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 100%;
+width: 100%;
+}
+
+#mySlider{
+  appearance:none;
+  width:90%;
+  height:35px;
+  background:rgb(5, 3, 29);
+  /* margin-top:px; */
+}
+
+#mySlider::-webkit-slider-thumb{
+  appearance:none;
+  width:35px;
+  height:35px;
+  background:rgb(212, 219, 19);
+}
+
+video{
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-50%);
+  z-index:-1;
+  border: #000 solid 1px;
+  margin-top: 4.5%;
+}
+
+#heightInfo{
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-100%);
+  border-bottom:3px solid white;
+  width:100%;
+}
+#myLabel{
+  margin-top: 1%;
+  color:whitesmoke
+}
